@@ -4,6 +4,7 @@ Compare size of generated QR codes of three libraries:
 * github.com/skip2/go-qrcode 
 * github.com/yeqown/go-qrcode v1
 * github.com/yeqown/go-qrcode/v2
+* *TBD* https://github.com/makiuchi-d/gozxing
 
 Results:
 ```
